@@ -23,6 +23,8 @@
    ``` python main.py --dataset_dir=horse2zebra --phase=test --which_direction=AtoB ```
 5. To visualize the traianing details: 
    ``` tensorboard --logdir=./logs ```
+#### For Assignment:
+Look into [Assignment](./Assignment) folder for more details
 #### Results of this implementation
 ![ResultImages](https://user-images.githubusercontent.com/35668737/57800836-350c8480-7707-11e9-85b0-6c913201e715.jpg)
 
